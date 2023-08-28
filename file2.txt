@@ -3,3 +3,4 @@ A line of code
 A second line of code.
 
 code to confilct.
+code for conflict from feature/pass branch.
